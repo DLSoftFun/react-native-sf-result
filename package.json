@@ -1,0 +1,22 @@
+{
+  "name": "react-native-sf-result",
+  "version": "1.0.6",
+  "description": "结果页",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DLSoftFun/react-native-sf-result.git"
+  },
+  "keywords": [
+    "result"
+  ],
+  "author": "HZYDZT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DLSoftFun/react-native-sf-result/issues"
+  },
+  "homepage": "https://github.com/DLSoftFun/react-native-sf-result#readme"
+}
